@@ -1,0 +1,143 @@
+{
+  "version": 2,
+  "exportedAt": "2026-04-29T22:11:36.925Z",
+  "card": {
+    "genInfo": {
+      "prefix": null,
+      "fname": "Sharon Guy",
+      "lname": null,
+      "pronouns": null,
+      "name": null,
+      "title": null,
+      "biz": "Clever Cats Virtual Assistants",
+      "desc": null,
+      "key": null,
+      "fp": null,
+      "tracker": null,
+      "fontLink": null,
+      "fontCss": null,
+      "street": "",
+      "city": "",
+      "state": "",
+      "postal": "",
+      "country": "",
+      "beforeTextLink": "Get your card @",
+      "linkedText": "Exposure Boost 👨‍💻",
+      "url": "https://o2o.to/i/1QdFNT",
+      "seoTitle": null,
+      "metaDescription": null,
+      "customFavi": "https://i.postimg.cc/nhCdXdYH/Untitled-design-2026-04-29T230758-433.png",
+      "shareImg": "https://i.postimg.cc/nhCdXdYH/Untitled-design-2026-04-29T230758-433.png",
+      "bookMarkImg": "https://i.postimg.cc/nhCdXdYH/Untitled-design-2026-04-29T230758-433.png",
+      "bookMarkTitle": null,
+      "metaName": null,
+      "metaContent": null,
+      "metaURL": null
+    },
+    "colors": {
+      "logoBg": {
+        "color": "#c49d9a",
+        "openPalette": false
+      },
+      "mainBg": {
+        "color": "#96a372",
+        "openPalette": false
+      },
+      "buttonBg": {
+        "color": "#c49d9a",
+        "openPalette": false
+      },
+      "cardBg": {
+        "color": "#E5E7EB",
+        "openPalette": false
+      }
+    },
+    "hostedURL": null,
+    "footerCredit": true,
+    "footerCreditCustom": true,
+    "logoOrHeader": true,
+    "customFavicon": true,
+    "shareImage": true,
+    "seoOpti": true,
+    "seoOptimization": false,
+    "metaData": false,
+    "simplifyCard": false,
+    "isFeaturedOn": false,
+    "customFavi": true,
+    "bookMarkImg": null,
+    "bookMarkImage": true,
+    "bookMarkTitle": false,
+    "shareImg": null,
+    "images": {
+      "logo": null,
+      "photo": {
+        "file": "photo.jpeg",
+        "ext": "jpeg",
+        "mime": "image/jpeg"
+      },
+      "cover": {
+        "file": "cover.png",
+        "ext": "png",
+        "mime": "image/png"
+      },
+      "icon": null
+    },
+    "primaryActions": [
+      {
+        "name": "call",
+        "href": "tel:",
+        "placeholder": "+1XXXXXXXXXX",
+        "value": "+447712006022",
+        "label": "Your Phone Number"
+      },
+      {
+        "name": "email",
+        "href": "mailto:",
+        "placeholder": "info@example.com",
+        "value": "sharon@clever-cats-va.co.uk",
+        "label": "Your Email Address"
+      },
+      {
+        "name": "whatsApp",
+        "placeholder": "https://wa.me/profileID",
+        "value": "https://wa.me/+447712006022",
+        "label": "Your WhatsApp URL"
+      },
+      {
+        "name": "website",
+        "placeholder": "https://example.com",
+        "value": "https://clever-cats-va.co.uk/",
+        "label": "Your Website URL"
+      }
+    ],
+    "secondaryActions": [
+      {
+        "name": "linkedin",
+        "placeholder": "https://linkedin.com/in/UserName",
+        "value": "https://www.linkedin.com/in/sharon-guy-8b065155/",
+        "color": "#0077b5",
+        "label": "Your Linkedin URL"
+      },
+      {
+        "name": "facebook",
+        "placeholder": "https://facebook.com/UserName",
+        "value": "https://www.facebook.com/clevercatsvauk",
+        "color": "#1877f2",
+        "label": "Your Facebook URL"
+      },
+      {
+        "name": "instagram",
+        "placeholder": "https://instagram.com/UserName",
+        "value": "https://www.instagram.com/clevercatsvauk/",
+        "color": "#405de6",
+        "label": "Your Instagram URL"
+      }
+    ],
+    "featured": [
+      {
+        "title": "",
+        "content": []
+      }
+    ]
+  }
+}
